@@ -1,0 +1,81 @@
+@media (max-width: 1440px) {
+    .title-1 {
+        font-size: 65px;
+    }
+
+    /* ================== Header ================== */
+    .header .container {
+        flex-direction: column;
+        padding: 10px 0;
+        gap: 10px;
+    }
+    /* end Header*/
+
+    /* ================== Header ================== */
+    .welcome__section {
+        background-size: 800px 100%, 75% auto;
+    }
+    /* end Header*/
+
+    /* ================== Header ================== */
+    .about-us__section {
+        background-size: 27% 100%, 50% auto;
+    }
+    /* end Header*/
+
+    .our-services__block-left {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .our-services__block-right {
+        max-width: unset;
+    }
+
+
+    .our-achievements__list {
+        justify-content: unset;
+    }
+
+    .our-achievements__item {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .our-work__container {
+        max-width: 700px;
+        padding: 0 20px;
+    }
+
+    .our-work__block-slider div:not(:last-child) {
+        display: none;
+    }
+
+    .our-work__block-slider {
+        grid-auto-flow: unset;
+    }
+}
+
+
+
+
+/* ================== Header ================== */
+
+/* end Header*/
+
+/* ================== Header ================== */
+
+/* end Header*/
+
+/* ================== Header ================== */
+
+/* end Header*/
+
+/* ================== Header ================== */
+
+/* end Header*/
+
+/* ================== Header ================== */
+
+/* end Header*/
